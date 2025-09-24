@@ -7,16 +7,13 @@ Projeto prático desenvolvido em **PHP**, utilizando **Bootstrap** e **XML** par
 ## 📂 Estrutura do Projeto
 
 Project/
-│
 ├── assets/
 │ ├── css/
 │ │ └── style.css
 │ ├── imgs/
 │ └── js/
-│
 ├── layouts/
 │ └── header.php
-│
 ├── index.php
 ├── show_zodiac_sign.php
 └── signos.xml
